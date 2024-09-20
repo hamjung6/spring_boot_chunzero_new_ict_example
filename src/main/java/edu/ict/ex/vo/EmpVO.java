@@ -23,4 +23,9 @@ public class EmpVO {
 	private int sal; // NUMBER(7,2)
 	private int comm; // NUMBER(7,2)
 	private int deptno; // NUMBER(2)
+	
+	private String hiredate2;
+	
+	private String dname;
+	private String loc;
 }
